@@ -43,64 +43,64 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "b72c6275-a563-40f4-8b73-4454d17c997b",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
+	 "image": "https://iili.io/JKjLHCJ.webp",
+	 "title": "HappyMod Tips for downloads 1",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
+	 "image": "https://iili.io/JKjsyQa.webp",
+	 "title": "HappyMod Tips for downloads 2",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
+	 "image": "https://iili.io/JKjsmTF.webp",
+	 "title": "HappyMod Tips for downloads 3",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
+	"image": "https://iili.io/JKjsphg.webp",
+	 "title": "HappyMod Tips for downloads 4",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
+	"image": "https://iili.io/JKjsDp1.webp",
+	 "title": "HappyMod Tips for downloads 5",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
+	"image": "https://iili.io/JKjstkP.webp",
+	 "title": "HappyMod Tips for downloads 6",
 	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
